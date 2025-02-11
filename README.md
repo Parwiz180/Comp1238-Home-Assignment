@@ -5,23 +5,23 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [link text](comp1238.md)
   
-- Monaday
+## Monaday
  - Comp1236
  - Comp1238
  - Comp1151
 
-- Tuesday
+## Tuesday
  - Comp1238
  - Math
  - Comp1234
 
-- Wedesday
+## Wedesday
  - Comp1234
  - English
    
-- Thursday
+##Thursday
  - Math
  - Comp1236
 
-- Friday
+## Friday
  - Comp1151
