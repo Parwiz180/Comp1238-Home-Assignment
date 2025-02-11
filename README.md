@@ -19,7 +19,7 @@
  - Comp1234
  - English
    
-##Thursday
+## Thursday
  - Math
  - Comp1236
 
