@@ -11,7 +11,7 @@
 3. Comp1151
 <br>
 - Tuesday
-1. Comp1238
+ - Comp1238
 2. Math
 3. Comp1234
 <br>
