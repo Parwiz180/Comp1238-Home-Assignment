@@ -6,9 +6,9 @@
 - [link text](comp1238.md)
   
 - Monaday
-1. Comp1236
-2. Comp1238
-3. Comp1151
+ - Comp1236
+ - Comp1238
+ - Comp1151
 
 - Tuesday
  - Comp1238
@@ -16,12 +16,12 @@
  - Comp1234
 
 - Wedesday
-1. Comp1234
-2. English
+ - Comp1234
+ - English
    
 - Thursday
-1. Math
-2. Comp1236
+ - Math
+ - Comp1236
 
 - Friday
-1. Comp1151
+ - Comp1151
